@@ -1,0 +1,3 @@
+name: pulumi-docker
+runtime: nodejs
+description: Testing docker on fargate with Pulumi
